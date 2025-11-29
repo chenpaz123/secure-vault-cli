@@ -11,3 +11,7 @@ __pycache__/
 # IDE settings
 .vscode/
 .idea/
+
+# Secrets and Local Data
+secret.key
+passwords.json
