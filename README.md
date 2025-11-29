@@ -14,7 +14,7 @@ This tool allows users to securely store and retrieve credentials using local AE
 ## 🛠️ Tech Stack
 
 - **Language:** Python 3.12+
-- **Dependency Management:** [כתוב כאן את שם הכלי שהשתמשנו בו לניהול חבילות]
+- **Dependency Management:** Poetry
 - **Security:** `cryptography` (Fernet implementation)
 
 ## 📦 Installation
