@@ -57,5 +57,5 @@ When you run the app for the first time, a new local encryption key will be gene
 
 Warning: If you lose your secret.key file, all stored passwords will be unrecoverable!
 
-👨‍💻 Author
+**👨‍💻 Author**
 Chen Paz
